@@ -1,6 +1,6 @@
 {
   "name": "jsforce",
-  "version": "1.6.0",
+  "version": "1.7.0.6",
   "homepage": "https://github.com/jsforce/jsforce",
   "authors": [
     "Shinichi Tomita <shinichi.tomita@gmail.com>"
